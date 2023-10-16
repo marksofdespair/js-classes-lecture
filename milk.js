@@ -8,7 +8,7 @@ class Milk {
         if (hasLactose) {
             this.maySendYouToTheER = true;
         } else {
-            this.maySendYouToTheER = true;
+            this.maySendYouToTheER = false;
         }
     }
 }
