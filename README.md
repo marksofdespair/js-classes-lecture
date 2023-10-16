@@ -1,0 +1,1 @@
+Sample code to be used when lecturing on LaunchCode's [JavaScript Classes](https://education.launchcode.org/intro-to-web-dev-curriculum/classes/index.html) chapter.
